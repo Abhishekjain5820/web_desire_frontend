@@ -1,0 +1,8 @@
+/* HeroSection.css */
+
+.hero {
+  background-image: url('../../images/hero.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px; /* Adjust height as needed */
+}

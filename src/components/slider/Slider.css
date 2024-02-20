@@ -1,0 +1,11 @@
+/* Slider.css */
+
+.slider-container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .slick-slide img {
+    width: 100%;
+  }
+  
